@@ -17,4 +17,3 @@ This repository contains the work for EN3150 Assignment 03. The assignment imple
 ## Notes
 
 - Large outputs or model checkpoints are not included in this repository. Run the notebooks to reproduce results.
-- For questions or issues, contact the repository owner: @Chathura-Jayasinghe
